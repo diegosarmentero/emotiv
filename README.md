@@ -1,0 +1,4 @@
+emotiv
+======
+
+experiments with emotiv
